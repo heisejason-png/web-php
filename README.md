@@ -41,3 +41,4 @@ Please keep this in mind before filing a pull request.
 ## Contributing
 
 Please have a look at [`CONTRIBUTING.md`](.github/CONTRIBUTING.md).
+Created by Jason Scott Heise
